@@ -5,4 +5,4 @@ FACULTAD DE INGENIERIA DEL EJERCITO
 
 ESTRUCTURA DE DATOS Y ALGORITMOS
 
- EJERCICIO 19 : 
+EJERCICIO 19 : Defina una función que invierte una cadena de caracteres dada, y la devuelve.
